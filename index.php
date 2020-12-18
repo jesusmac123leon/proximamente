@@ -3,7 +3,7 @@
 
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <title>8th Wall Web: A-FRAME Image Targets</title>
+    <title>proyecto de prueba </title>
   <link rel="stylesheet" type="text/css" href="index.css">
 
   <!-- We've included a slightly modified version of A-Frame, which fixes some polish concerns -->
@@ -15,7 +15,7 @@
 
   <!-- 8thWall Web - Replace the app key here with your own app key -->
   <script
-    src="//apps.8thwall.com/xrweb?appKey=w7y6qogv1N0AtkhqQkl0HVkJMicVkf6uS5U9BW99WdJL0NLmKAH44wBfe7JlNgSK5fyjUC"></script>
+    src="//apps.8thwall.com/xrweb?appKey=4hRA5VHQkiOTjypYYlRxXeuKZ53IFzO17SgKRYMBGexDBlyK82ypia7bVX1GKEPWoWWp7W"></script>
 
   <!-- client code -->
   <script src="index.js"></script>
@@ -34,7 +34,7 @@
     xrextras-runtime-error>
 
     <a-assets>
-      <a-asset-item id="frame-glb" src="tasajo.glb"></a-asset-item>
+      <a-asset-item id="frame-glb" src="prox.glb"></a-asset-item>
     </a-assets>
 
     <a-camera position="0 4 10"> </a-camera>
