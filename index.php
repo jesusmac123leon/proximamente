@@ -44,7 +44,7 @@
     <!-- A 3d object that tracks the image target. -->
     <a-entity image-target>
       <!--  Display a 3d model of an image frame. -->
-      <a-entity id="frame"  position="2 0 -2"  scale=".5 .5 .5" rotation="0 40 10" gltf-model="#frame-glb"></a-entity>
+      <a-entity id="frame"  position="2 0 -3"  scale=".5 .5 .5" rotation="0 40 10" gltf-model="#frame-glb"></a-entity>
 
       <!-- Add extra lighting to highlight the 3d geometry of the image frame. -->
       <a-light type="directional" intensity="1" target="#frame" position="1.5 0.6 2.5"> </a-light>
